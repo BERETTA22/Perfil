@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://i.imgur.com/Z6SBfKT.png" alt="Desarrollador Full Stack" width="100%" />
+  <img src="https://www.imagui.com/i/mejores-aplicaciones-presentaciones-animadas-34857759.gif" alt="Desarrollador Full Stack" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy **Santiago**
@@ -79,13 +79,13 @@ Apasionado por crear soluciones útiles con código. Me encanta trabajar tanto e
 
 ¿Te interesa colaborar, tienes alguna idea o simplemente quieres charlar?
 
-- 📧 **Email:** santiUZ2025@gmail.com  
+- 📧 **Email:** santiuz2025@gmail.com  
 - 💻 **GitHub:** [github.com/Beretta22](https://github.com/Beretta22)
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/BaI6Y1n.png" width="80%" alt="coding" />
+  <img src="https://dacartec.com.co/wp-content/uploads/2020/04/desarrolloo.gif" width="80%" alt="coding" />
 </p>
 
 <p align="center">
