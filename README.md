@@ -1,3 +1,8 @@
+<!-- Banner superior -->
+<p align="center">
+  <img src="https://i.imgur.com/Z6SBfKT.png" alt="Desarrollador Full Stack" width="100%" />
+</p>
+
 # 👋 ¡Hola! Soy **Santiago**
 
 ## 🧑‍💻 Desarrollador de Software Full Stack  
@@ -15,7 +20,12 @@ Apasionado por crear soluciones útiles con código. Me encanta trabajar tanto e
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Liquid-FF9900?style=for-the-badge&logo=liquid&logoColor=white"/>
 </div>
+
+> 🛒 Experiencia de 5 meses como desarrollador frontend en Shopify:  
+> Configuración de tiendas, creación y mantenimiento de plantillas personalizadas, trabajo con el lenguaje Liquid.
 
 <br>
 
@@ -25,6 +35,8 @@ Apasionado por crear soluciones útiles con código. Me encanta trabajar tanto e
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </div>
+
+> 🧾 He desarrollado un completo **sistema de inventario** usando **Laravel 11**, incluyendo autenticación, gestión de productos, proveedores y reportes.
 
 <br>
 
@@ -67,11 +79,15 @@ Apasionado por crear soluciones útiles con código. Me encanta trabajar tanto e
 
 ¿Te interesa colaborar, tienes alguna idea o simplemente quieres charlar?
 
-- 📧 **Email:** tu-email@ejemplo.com  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 💻 **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)
+- 📧 **Email:** santiUZ2025@gmail.com  
+- 💻 **GitHub:** [github.com/Beretta22](https://github.com/Beretta22)
 
 ---
 
-🛠️ *Siempre abierto a nuevos retos y oportunidades para seguir creciendo como desarrollador.*
+<p align="center">
+  <img src="https://i.imgur.com/BaI6Y1n.png" width="80%" alt="coding" />
+</p>
 
+<p align="center">
+  🛠️ *Siempre abierto a nuevos retos y oportunidades para seguir creciendo como desarrollador.*
+</p>
